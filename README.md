@@ -1,4 +1,4 @@
-# Bulk Image Downloader (Python/Tkinter)
+# URL to Image (Python/Tkinter)
 
 A professional-grade, multi-threaded GUI application developed for **Ubuntu 24.4** and **Windows 10+** to automate image scraping from datasets. This tool is designed for Data Analysts who need to convert image URL lists (CSV/XLSX) into local directories for computer vision, machine learning datasets, or archival purposes.
 
@@ -10,7 +10,7 @@ A professional-grade, multi-threaded GUI application developed for **Ubuntu 24.4
 - **Real-time Logging:** Scrolled text widget provides immediate feedback on success, failure, and connection timeouts.
 
 ## 🛠️ Technical Specifications
-- **Operating System:** Ubuntu 24.4 (LTS)
+- **Operating System:** Ubuntu 24.4 (LTS) and Windows 10+
 - **Language:** Python 3.12+
 - **Key Libraries:**
   - `pandas`: For high-speed data frame parsing.
