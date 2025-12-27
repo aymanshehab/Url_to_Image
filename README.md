@@ -35,7 +35,7 @@ sudo apt install python3-tk
 pip install -r requirements.txt
 ```
 
-### Usage Instructions
+## Usage Instructions
 - **Load Data:** Click **Browse** to select your .csv or .xlsx file.
 
 - **Map Columns:** Enter the exact names of the columns containing the URLs and the Target Filenames.
@@ -49,16 +49,22 @@ pip install -r requirements.txt
 - Use Resume to pick up exactly where the thread left off.
 
 
-#### 👨‍💻 Author
+## 👨‍💻 Author
 Ayman Ali Shehab
 
-Role: Data Analyst
+- **Role:** Data Analyst
 
-GitHub: aymanali1
+- **GitHub:** aymanali1
 
-Contact: ayman21shehab@outlook.com
+- **Contact:** ayman21shehab@outlook.com
 
-📄 License & Copyright
+## 📄 License & Copyright
 © 2025 Ayman Ali Shehab
 
-This software is provided for professional portfolio and educational use. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute, subject to the inclusion of this copyright notice.
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+- **Permissions:** You are free to run, study, share, and modify this software.
+
+- **Conditions:** If you redistribute or modify this tool, you must provide the source code and use the same GPLv3 license. You cannot "close" the source for proprietary use.
+
+- **No Warranty:** This software is provided "as is" without any warranty. The author (Ayman Ali Shehab) is not liable for how this tool is used to scrape data or for any network/bandwidth issues resulting from its multi-threaded engine.
