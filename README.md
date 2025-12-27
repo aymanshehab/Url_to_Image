@@ -54,7 +54,7 @@ Ayman Ali Shehab
 
 - **Role:** Data Analyst
 
-- **GitHub:** aymanali1
+- **GitHub:** aymanshehab
 
 - **Contact:** ayman21shehab@outlook.com
 
